@@ -18,9 +18,9 @@ theory and adapted it to fulfill his disciplinary agenda, contrasting the
 main trends in postwar American Political Science. My thesis is that,
 in doing so, Riker stressed some aspects of the theory that differed
 quite sharply from postwar mathematical economics to which game
-theory belonged. Sections 1 and 2 describe Riker`s education and intellectual life until the late 1950s, showing how he became acquainted
+theory belonged. Sections 1 and 2 describe his education and intellectual life until the late 1950s, showing how he became acquainted
 with game theory and how American political science as a discipline
-was changing in that crucial decade. Section 3 presents Riker`s main
+was changing in that crucial decade. Section 3 presents his main
 arguments in the The Theory of Political Coalitions, focusing on his
 working through game theory to produce a suitable model of political
 coalition-building. Section 4 discusses some methodological aspects of
