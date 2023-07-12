@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in History, University of Milan, 2016
+* M.A. in History and Civilization, University of Pisa, 2018
+* Ph.D. in Social and Political Change, University of Florence-University of Turin, 2022
+* M.A in Economics, Collegio Carlo Alberto, 2023
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Italian (mother tongue), English (Fluent), French (Limited)
+* Programming: Stata (medium), Matlab, R (limited), Latex (medium)
 
 Publications
 ======
@@ -53,7 +38,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+I served as a voluntary guide for FAI (Fondo Ambientale Italiano), an Italian no-profit foundation that aims to preserve Italian historical heritage and monuments.
