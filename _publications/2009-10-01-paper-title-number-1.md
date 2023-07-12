@@ -3,7 +3,7 @@ title: "Norberto Bobbio e la possibilità di una politica scientifica"
 collection: publications
 permalink: /publications/2021-03-01-Bobbio
 venue: "Rivista di Politica"
-excerpt: 'This paper is about Norberto Bobbio.'
+excerpt: 'This paper is about Norberto Bobbio and his role in the development of Political Science in Italy.'
 date: 2021-03-01
 paperurl: http://gianludam.github.io/files/Rdp_1_2021 fascicolo completo.pdf
 citation: 'Damiani, G. (2021). "Norberto Bobbio e la possibilità di una politica scientifica." <i>Rivista di Politica</i>. 2021(1).'
