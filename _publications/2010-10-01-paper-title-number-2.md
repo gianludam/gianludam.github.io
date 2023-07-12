@@ -6,5 +6,5 @@ venue: "Il Politico"
 excerpt: 'This paper is about testing.'
 date: 2020-10-01
 paperurl: http://gianludam.github.io/files/IlPolitico2020
-citation: 'Damiani, G. (2021). "Norberto Bobbio e la possibilità di una politica scientifica." <i>Il Politico</i>. 2021(1).'
+citation: 'Damiani, G. (2021). "Norberto Bobbio e la possibilità di una politica scientifica." <i>Il Politico</i>. 252(1).'
 ---
