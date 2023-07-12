@@ -6,5 +6,5 @@ venue: "Il Politico"
 excerpt: 'This paper is about testing.'
 date: 2020-10-01
 paperurl: http://gianludam.github.io/files/IlPolitico2020
-citation: 'Damiani, G. (2021). "Review to Paolo Martelli, L'Istituzione del Disordine." <i>Rivista di Politica</i>. 2021(1).'
+citation: 'Damiani, G. (2021). "Norberto Bobbio e la possibilità di una politica scientifica." <i>Rivista di Politica</i>. 2021(1).'
 ---
