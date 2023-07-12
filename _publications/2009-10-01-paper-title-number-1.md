@@ -2,7 +2,7 @@
 title: "Norberto Bobbio e la possibilità di una politica scientifica"
 collection: publications
 permalink: /publication/2021-Bobbio
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about Norberto Bobbio's role in the development of Italian Political Science'
 date: 2021-03-01
 venue: 'Rivista di Politica'
 paperurl: 'https://www.istitutodipolitica.it/prodotto/01-2021-da-trump-a-biden-come-canbiano-gli-stati-uniti/'
