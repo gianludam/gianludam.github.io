@@ -6,5 +6,5 @@ venue: "Il Politico"
 excerpt: 'This paper is about testing.'
 date: 2020-10-01
 paperurl: http://gianludam.github.io/files/IlPolitico2020
-citation: 'Damiani, Gianluca (2020). "Review to P. Martelli, L'Istituzione del disordine. Regole del Gioco e Giocatori nella politica italiana dal 1946 al 2018" <i>Il Politico</i>. 252(1).'
+citation: 'Damiani, G. (2021). "Norberto Bobbio e la possibilità di una politica scientifica." <i>Rivista di Politica</i>. 2021(1).'
 ---
