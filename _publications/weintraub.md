@@ -9,4 +9,4 @@ paperurl: http://gianludam.github.io/files/ReviewHIST.pdf
 citation: 'Damiani, G. (2020). "Review to: A contemporary historiography of Economics" <i>History of Economic Ideas</i>. 28(2).'
 ---
 
-[Download paper here](http://gianludam.github.io/files/ReviewHIST.pdf)
+
