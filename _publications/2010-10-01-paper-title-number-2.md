@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Review to P. Martelli, L'Istituzione del disordine. Regole del Gioco e Giocatori nella politica italiana dal 1946 al 2018"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publications/2020-Martelli
+venue: "Il Politico"
+excerpt: 'Review of the last book of Italian political scientist Paolo Martelli'
+date: 2020-10-01
+paperurl: http://gianludam.github.io/files/IlPolitico2020
+citation: 'Damiani, Gianluca. (2020). "Review to P. Martelli, L'Istituzione del disordine. Regole del Gioco e Giocatori nella politica italiana dal 1946 al 2018" <i>Il Politico</i>. 252(1).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
