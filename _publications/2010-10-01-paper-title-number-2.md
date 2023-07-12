@@ -1,10 +1,10 @@
 ---
-title: "Test Accounts: An Introduction"
+title: "Review to P.Martelli,L'Istituzione del disordine. Regole del Gioco e Giocatori nella politica italiana dal 1946 al 2018"
 collection: publications
-permalink: /publications/2009-10-01-test-accts-intro
-venue: "Testing Studies"
+permalink: /publications/2020-10-01-Martelli
+venue: "Il Politico"
 excerpt: 'This paper is about testing.'
-date: 2009-10-01
-paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
+date: 2020-10-01
+paperurl: http://gianludam.github.io/files/IlPolitico2020
+citation: 'Damiani, G. (2009). "Review to P.Martelli, L'Istituzione del disordine. Regole del Gioco e Giocatori nella politica italiana dal 1946 al 2018" <i>Il Politico</i>. 252(1).'
 ---
