@@ -42,3 +42,5 @@ Teaching
 Service and leadership
 ======
 I served as a voluntary guide for FAI (Fondo Ambientale Italiano), an Italian no-profit foundation that aims to preserve Italian historical heritage and monuments.
+
+[Download my CV here](/files/CV.pdf)
