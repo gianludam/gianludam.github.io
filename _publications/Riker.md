@@ -18,6 +18,7 @@ with game theory and how American political science as a discipline was changing
 coalition-building. Section 4 discusses some methodological aspects of Riker`s commitment to game theory and economic analysis. In particular, I aim to outline and discuss an apparent dilemma in his theoretical production, namely his resting on an outdated idea of economics, despite his use of game-theoretic analysis. Finally, Section 5 offers concluding remarks.
 
 Keywords: Game Theory, Political Science, Positive Political Theory, William H. Riker
+
 JEL CLassification: B16, B21, B29, B31
 
 [Download Paper Here](http://gianludam.github.io/files/DamianiRiker.pdf)
