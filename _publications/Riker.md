@@ -19,6 +19,4 @@ coalition-building. Section 4 discusses some methodological aspects of Riker`s c
 
 Keywords: Game Theory, Political Science, Positive Political Theory, William H. Riker
 
-JEL CLassification: B16, B21, B29, B31
-
 [Download Paper Here](http://gianludam.github.io/files/DamianiRiker.pdf)
