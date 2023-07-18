@@ -8,7 +8,7 @@ date: 2019-09-13
 location: "Lecce, IT"
 ---
 
-I presented these notes at the 2019 SISP (Società Italiana di Scienza Politica) conference in Lecce.
+I presented these notes at the 2019 SISP (Società Italiana di Scienza Politica) conference in Lecce (IT).
 
 [Download slides here (Italian)](/files/SISP2019Slides.pdf)
 
