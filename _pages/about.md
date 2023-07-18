@@ -14,4 +14,4 @@ In the first part of my academic career, my main interest was Intellectual Histo
 
 Therefore, after having completed a Master of Arts in Economics (2023) at the Collegio Carlo Alberto in Turin, I am now enrolled in the Ph.D. Program in Economics at UNC.
 
-My non-academic interests include Military History (especially the Napoleonic War, American Civil War, and First World War), Byzantine History, and History of Mathematics. Further, I am an avid Reader and Book Collector and a supporter of Juventus Football Club.
+My non-academic interests include Military History (especially the Napoleonic War, American Civil War, and First World War), Byzantine History, and History of Mathematics. Further, I am an avid reader and books collector and a supporter of Juventus Football Club.
