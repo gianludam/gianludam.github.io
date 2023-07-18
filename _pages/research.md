@@ -1,4 +1,4 @@
 ---
 permalink: /research/
-title: "Research and Varia"
+title: "Research and varia"
 ---
