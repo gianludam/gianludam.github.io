@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-On this page, I upload some products of my research.
+On this page, I upload some products of my research. These are my three dissertations and some notes (about Economics, especially Micro, but others can arrive hopefully).
 
 ## My Bachelor's dissertation
 
@@ -18,3 +18,9 @@ I earned my Master of Arts in History and Civilization at the University of Pisa
 For my Ph.D. dissertation, I worked on the history of how game theory entered into the toolbox of Political Scientists in a way (perhaps surprisingly) different from what it did in Economics. The «main character» of this story is the American political scientist William H. Riker, whose work and especially scholarship paved the way for the establishment of the so-called «Positive Political Theory». From this work, a paper is about to be published, and one working paper is currently under revision. You can find the abstract [here](https://hdl.handle.net/2158/1288364). 
 
 Also, you can [download it here](/files/DissertationDAMIANI.pdf)
+
+## Class notes on Microeconomics
+
+If you are interested in Microeconomics or want to refresh some ideas, the following notes can be useful. Please notice, anyway, that these are far from being complete and are a work in progress (and there can be some typos...)
+
+
