@@ -3,7 +3,7 @@ title: "Review to R. Backhouse, Founder of Modern Economics. Paul Samuelson, vol
 collection: publications
 permalink: /publications/2020-03-01-Backhouse
 venue: "History of Economic Ideas"
-excerpt: 'Review.'
+excerpt: 'This is the Review of the first volume of Roger Backhouse`s biography of [Paul Samuelson](https://global.oup.com/academic/product/founder-of-modern-economics-paul-a-samuelson-9780190664091?cc=it&lang=en&#).'
 date: 2020-03-01
 paperurl: 
 citation: 'Damiani, G. (2020). "Review to Roger Backhouse: Founder of Modern Economics. Paul Samuelson, volume I" <i>History of Economic Ideas</i>. 28(1).'
