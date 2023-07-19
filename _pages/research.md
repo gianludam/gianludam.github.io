@@ -11,7 +11,7 @@ I obtained my Bachelor's in History with a dissertation on Pietro Verri, an enli
 
 ## My Master of Arts dissertation
 
-I earned my Master of Arts in History and Civilization at the University of Pisa. There I worked mainly on the political theory of the renowned economist (and Economics Nobel Prize winner) Friedrich August von Hayek. He was a strong proponent of political (as well as economic) liberalism and defended his views in many works in the years after the Second World War. In my thesis, I analyzed Hayek's work focusing on the idea of «order» and «spontaneous evolution», his theory of Law, and finally, his constitutional proposal. I also compared his political work with some developments in Liberal and Libertarian political thought. Again, the work is in Italian, but if you are interested, take a look [here](/files/TESIMagistrale.pdf).
+I earned my Master of Arts in History and Civilization at the University of Pisa in 2018. There I worked mainly on the political theory of the renowned economist (and Economics Nobel Prize winner) Friedrich August von Hayek. He was a strong proponent of political (as well as economic) liberalism and defended his views in many works in the years after the Second World War. In my thesis, I analyzed Hayek's work focusing on the idea of «spontaneous order», his theory of Law, and finally, his constitutional proposal. I also compared his political work with some developments in Liberal and Libertarian political thought. Again, the work is in Italian, but if you are interested, take a look [here](/files/TESIMagistrale.pdf).
 
 ## My Ph.D. dissertation
 
