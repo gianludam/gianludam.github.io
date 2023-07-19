@@ -6,7 +6,7 @@ On this page, I will upload some material I am working on (especially Class Note
 
 ## Class notes on Microeconomics
 
-On Classical Demand Theory (Marshallian and Hicksian Demand, Slutsky Equation, and so on), you can take a look [here](/files/NotesClassicalDemandTheory.pdf). These notes are mainly based on the third chapter of [Mas-Colell, Whinston, and Green](https://www.amazon.it/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195102681)(of course!)(from now on, MWG) and chapters eight, nine and ten of [Varian](https://www.amazon.com/Microeconomic-Analysis-Third-Hal-Varian/dp/0393957357).
+On Classical Demand Theory (Marshallian and Hicksian Demand, Slutsky Equation, and so on), you can take a look [here](/files/NotesClassicalDemandTheory.pdf). These notes are mainly based on the third chapter of [Mas-Colell, Whinston, and Green](https://www.amazon.it/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195102681) (of course!)(from now on, MWG) and chapters eight, nine and ten of [Varian](https://www.amazon.com/Microeconomic-Analysis-Third-Hal-Varian/dp/0393957357).
 
 On Production Theory, you can take a look at these brief [notes](/files/NotesProductionTheory.pdf), based on chapter five of MWG. 
 
