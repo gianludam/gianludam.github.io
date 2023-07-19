@@ -41,7 +41,7 @@ Teaching
    
 Other activities
 ======
-I have helped (together with others) Professor Raimondo Cubeddu (University of Pisa) in the proofreading of the Italian translation of some essays of Carl Menger, [Scambio, Valore e Capitale. Scritti su Adam Smith](https://www.brunoleoni.it/scambio-valore-e-capitale-scritti-su-adam-smith).
+I helped (together with others) Professor Raimondo Cubeddu (University of Pisa) in the proofreading of the Italian translation of some essays of Carl Menger, [Scambio, Valore e Capitale. Scritti su Adam Smith](https://www.brunoleoni.it/scambio-valore-e-capitale-scritti-su-adam-smith).
 
 I served as a voluntary guide for FAI (Fondo Ambientale Italiano), an Italian no-profit foundation that aims to preserve Italian historical heritage and monuments.
 
