@@ -11,7 +11,7 @@ I obtained my Bachelor's in History with a dissertation on Pietro Verri, an enli
 
 ## My Master of Arts dissertation
 
-I earned my Master of Arts in History and Civilization at the University of Pisa. There I worked mainly on the political theory of the renowned economist (and Economics Nobel Prize winner) Friedrich August von Hayek. He was a strong proponent of political (as well as economic) liberalism and defended his views in many works in the years after the Second World War. In my thesis, I analyzed Hayek's work focusing on the idea of «order» and «spontaneous evolution», his theory of Law, and finally, his constitutional proposal. I also compared his political work with some developments in Liberal and Libertarian political thought. Again, the work is in Italian, but if you are interested, take a look [Here](/files/TESIMagistrale.pdf).
+I earned my Master of Arts in History and Civilization at the University of Pisa. There I worked mainly on the political theory of the renowned economist (and Economics Nobel Prize winner) Friedrich August von Hayek. He was a strong proponent of political (as well as economic) liberalism and defended his views in many works in the years after the Second World War. In my thesis, I analyzed Hayek's work focusing on the idea of «order» and «spontaneous evolution», his theory of Law, and finally, his constitutional proposal. I also compared his political work with some developments in Liberal and Libertarian political thought. Again, the work is in Italian, but if you are interested, take a look [here](/files/TESIMagistrale.pdf).
 
 ## My Ph.D. dissertation
 
@@ -21,6 +21,14 @@ Also, you can [download it here](/files/DissertationDAMIANI.pdf)
 
 ## Class notes on Microeconomics
 
-If you are interested in Microeconomics or want to refresh some ideas, the following notes can be useful. Please notice, anyway, that these are far from being complete and are a work in progress (and there can be some typos...)
+If you are interested in Microeconomics or want to refresh some ideas, the following notes I took can be useful. Please notice, anyway, that these are far from being complete and are a work in progress (and there can be some typos...)
 
+On Classical Demand Theory (Marshallian and Hicksian Demand, Slutsky Equation, and so on), you can take a look [here](/files/NotesClassicalDemandTheory.pdf). These notes are mainly based on the third chapter of [Mas-Colell, Whinston, and Green](https://www.amazon.it/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195102681)(of course!)(from now on, MWG) and chapters eight, nine and ten of [Varian](https://www.amazon.com/Microeconomic-Analysis-Third-Hal-Varian/dp/0393957357).
 
+On Production Theory, you can take a look at these brief [notes](/files/NotesProductionTheory.pdf), based on chapter five of MWG. 
+
+An overview of General Economic Equilibrium is [here](/files/NotesGeneralEconomicEquilibrium.pdf). This contains the Welfare Theorems (First and Second) and their proofs, as well as the statement and the proof (simplified) of the Existence Theorem for General Economic Equilibrium (AKA Arrow-Debreu Theorem).
+
+Last (but not least!), [here](/files/NotesGameTheory.pdf) is a graduate introduction to Game Theory, based on the course I took at the Master in Economics at the Collegio Carlo Alberto (taught by [Dino Gerardi](https://sites.google.com/carloalberto.org/dinogerardi/).
+
+A set of exercises solved on Micro (but not Game Theory) is [here](/files/ExercisesMicro.pdf). 
