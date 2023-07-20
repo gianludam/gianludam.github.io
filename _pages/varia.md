@@ -12,6 +12,6 @@ On Production Theory, you can take a look at these brief [notes](/files/NotesPro
 
 An overview of General Economic Equilibrium is [here](/files/NotesGeneralEconomicEquilibrium.pdf). This contains the Welfare Theorems (First and Second) and their proofs, as well as the statement and the proof (simplified) of the Existence Theorem for General Economic Equilibrium (AKA Arrow-Debreu Theorem).
 
-Last (but not least!), [here](/files/NotesGameTheory.pdf) is a graduate introduction to Game Theory, based on the course I took at the Master in Economics at the Collegio Carlo Alberto (taught by [Dino Gerardi](https://sites.google.com/carloalberto.org/dinogerardi/)).
+Last (but not least!), [here](/files/NotesGameTheory.pdf) is a graduate introduction to Game Theory, the notes I took from the course in the Master in Economics at the Collegio Carlo Alberto (taught by [Dino Gerardi](https://sites.google.com/carloalberto.org/dinogerardi/)).
 
 A set of exercises solved on Micro (but not Game Theory) is [here](/files/ExercisesMicro.pdf). 
