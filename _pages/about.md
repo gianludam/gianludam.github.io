@@ -18,4 +18,4 @@ Therefore, after having completed a Master of Arts in Economics (2023) at the [C
 
 As a scholar with broad training in humanities and politics, I am mainly interested in political institutions, individual behavior, and their interactions using the tools of modern economics.
 
-My non-academic interests include Military History (especially the Napoleonic Wars, the American Civil War, and the First World War), Byzantine History, and (to a lesser degree) the History of Mathematics and Science. Further, I am an avid reader and books collector and a supporter of Juventus Football Club.
+My non-academic interests include Military History (especially the Napoleonic Wars, the American Civil War, and the First World War), Byzantine (or better, medieval Roman) History, and (to a lesser degree) the History of Mathematics and Science. Further, I am an avid reader and books collector and a supporter of Juventus Football Club.
