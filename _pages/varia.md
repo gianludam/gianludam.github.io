@@ -12,5 +12,7 @@ On Microeconomics (Rational Choice, Classical Demand Theory, General Equilibrium
 
 Last (but not least), [here](/files/NotesGT.pdf) is a graduate introduction to Game Theory, the notes I took from the course in the Master in Economics at the Collegio Carlo Alberto.
 
+## History of Economics
+
 Finally, an example of my early fascination with Intellectual history and the history of Economic Thought: some notes I wrote about some aspects of the late XIXth century Marginal Revolution and the early attempts to employ mathematics in Economics. You can read it [here](
 /files/MarginalRevolution,EconomicEquilibriumandMathematicalEconomics.pdf).
