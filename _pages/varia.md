@@ -2,11 +2,11 @@
 permalink: /varia/
 title: "Varia"
 ---
-On this page, I will upload some material I am working on (especially Class Notes on Economics I took, Exercises solved, and so on). Therefore, if you are interested in Econ or want to refresh some ideas, the following can be useful. Please notice, anyway, that these are far from being complete and are a work in progress (and there can be some typos...)
+On this page, I will upload some material I am working on (especially Class Notes on Economics I took, Exercises solved, and so on). Therefore, the following can be useful if you are interested in Econ or want to refresh some ideas. Please notice, anyway, that these are far from being complete and are a work in progress (and there can be some typos, but I try to amend them...)
 
 ## Class notes on Microeconomics
 
-On Classical Demand Theory (Marshallian and Hicksian Demand, Slutsky Equation, and so on), you can take a look [here](/files/NotesClassicalDemandTheory.pdf). These notes are mainly based on the third chapter of [Mas-Colell, Whinston, and Green](https://www.amazon.it/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195102681) (of course!)(from now on, MWG) and chapters eight, nine and ten of [Varian](https://www.amazon.com/Microeconomic-Analysis-Third-Hal-Varian/dp/0393957357).
+On Microeconomics (Rational Choice, Classical Demand Theory, General Equilibrium in a Pure Exchange Economy), you can take a look [here](/files/NotesClassicalDemandTheory.pdf). These notes are mainly based on the third chapter of [Mas-Colell, Whinston, and Green](https://www.amazon.it/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195102681) (of course!)(from now on, MWG) and chapters eight, nine and ten of [Varian](https://www.amazon.com/Microeconomic-Analysis-Third-Hal-Varian/dp/0393957357).
 
 On Production Theory, you can take a look at these brief [notes](/files/NotesProductionTheory.pdf), based on chapter five of MWG. 
 
