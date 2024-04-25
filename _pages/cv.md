@@ -19,7 +19,7 @@ Education
 Skills
 ======
 * Languages: Italian (mother tongue), English (Fluent), French (Limited)
-* Programming: Stata (medium), Matlab, R (limited), Latex (medium)
+* Programming: Stata, Python, LateX (medium), Matlab, R, Julia (limited)
 
 Publications
 ======
