@@ -4,7 +4,7 @@ collection: publications
 permalink:
 venue: Oeconomia
 excerpt: 'This paper is about American Political Scientist William H. Riker and his role in introducing Game Theory in Political Science.'
-date: 2024-06
+date: 2024-06-01
 paperurl: 'https://journals.openedition.org/oeconomia/17069'
 citation: 'Damiani, G. (2024). "Looking for a «Genuine Science of Politics». William H. Riker and the Game Theoretical Turn in Political Science."  Oeconomia, 14-2, 149-193: http://journals.openedition.org/oeconomia/17069; DOI : https://doi.org/10.4000/120il'
 ---
