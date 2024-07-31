@@ -1,11 +1,11 @@
 ---
 title: "Looking for a «Genuine Science of Politics». William H. Riker and the Game Theoretical Turn in Political Science"
 collection: publications
-permalink: /publications/2022-05-01-Riker
-venue: "Center for the History of Political Economy Working Papers"
-excerpt: 'This paper is about American Political Scientist William H. Riker and his role in introducing Game Theory in Political Science. A slightly revised version of this paper has been accepted for publication in a peer-reviewed Journal and will be published soon.'
+permalink:
+venue: Oeconomia
+excerpt: 'This paper is about American Political Scientist William H. Riker and his role in introducing Game Theory in Political Science.'
 date: 2022-05-01
-paperurl:
+paperurl: 'https://journals.openedition.org/oeconomia/17069'
 citation: 'Damiani, G. (2021). "Looking for a «Genuine Science of Politics». William H. Riker and the Game Theoretical Turn in Political Science."  Oeconomia, 14-2, 149-193: http://journals.openedition.org/oeconomia/17069; DOI : https://doi.org/10.4000/120il'
 ---
 
