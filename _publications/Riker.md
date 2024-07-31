@@ -6,7 +6,7 @@ venue: "Center for the History of Political Economy Working Papers"
 excerpt: 'This paper is about American Political Scientist William H. Riker and his role in introducing Game Theory in Political Science. A slightly revised version of this paper has been accepted for publication in a peer-reviewed Journal and will be published soon.'
 date: 2022-05-01
 paperurl:
-citation: 'Damiani, G. (2021). "Looking for a «Genuine Science of Politics». William H. Riker and the Game Theoretical Turn in Political Science." <i>CHOPE Working Papers</i>. No 2022(7).'
+citation: 'Damiani, G. (2021). "Looking for a «Genuine Science of Politics». William H. Riker and the Game Theoretical Turn in Political Science."  Oeconomia, 14-2, 149-193: http://journals.openedition.org/oeconomia/17069; DOI : https://doi.org/10.4000/120il'
 ---
 
 ## Abstract
@@ -19,4 +19,4 @@ coalition-building. Section 4 discusses some methodological aspects of Riker`s c
 
 Keywords: Game Theory, Political Science, Positive Political Theory, William H. Riker
 
-[Download Paper Here](http://gianludam.github.io/files/DamianiRiker.pdf)
+[Download Paper Here](https://journals.openedition.org/oeconomia/17069)
