@@ -14,4 +14,4 @@ This article aims to show how the formal revolution in economics has influenced 
 
 Keywords: Game Theory, Political Science, Positive Political Theory, William H. Riker
 
-[Download Paper Here](https://journals.openedition.org/oeconomia/17069)
+[Read Paper Here](https://journals.openedition.org/oeconomia/17069)
