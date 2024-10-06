@@ -16,6 +16,4 @@ During my [Ph.D. research](https://gianludam.github.io/research/), I worked main
 
 Therefore, after having completed a Master of Arts in Economics (2023) at the [Collegio Carlo Alberto](https://www.carloalberto.org/education/master-in-economics/) in Turin, I am now enrolled in the Ph.D. Program in Economics at UNC.
 
-As a scholar with broad training in humanities and politics, I am mainly interested in political institutions, individual behavior, and their interactions using the tools of modern economics.
-
 My non-academic interests include the history of the War of American Independence, especially the British side, the Napoleonic Wars, the American Civil War, and the First World War, Roman History (especially late antiquity and Byzantines - wrong name, I know), and (to a lesser degree) the History of Science. Further, I am an avid reader and books collector and a supporter of Juventus Football Club.
