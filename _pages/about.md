@@ -10,7 +10,7 @@ redirect_from:
 
 Hello. Welcome to my personal page! 
 
-I come from Northern Italy. I hold a Ph.D. in Social and Political Sciences (in a program called [“Social and Political Change”](https://www.mutamentosocialepolitico.unifi.it/) co-hosted by the Universities of Florence and Turin). I earned a Bachelor of Arts (2016) and a Master of Art (2018) in History (respectively at the University of Milan and the University of Pisa), and a Master in Economics (2023) at the Collegio Carlo Alberto and a Master of Science at the University of North Carolina at Chapel Hill. 
+I come from Northern Italy. I hold a Ph.D. in Social and Political Sciences (in a program called [“Social and Political Change”](https://www.mutamentosocialepolitico.unifi.it/) co-hosted by the Universities of Florence and Turin). I earned a Bachelor of Arts (2016) and a Master of Art (2018) in History (respectively at the University of Milan and the University of Pisa), other than a Master in Economics (2023) at the Collegio Carlo Alberto and a Master of Science at the University of North Carolina at Chapel Hill (2025). 
 
 During my [Ph.D. research](https://gianludam.github.io/research/), I worked mainly on the history of Mathematical Economics and Game Theory, and I spent a period as a [visiting fellow](https://hope.econ.duke.edu/node/1830) at the Center for the History of Political Economy at Duke University.  
 
