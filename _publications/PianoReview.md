@@ -5,5 +5,5 @@ venue: "History of Political Economy"
 excerpt: 'This is the review of Natasha Piano's book on how american political scientists were influenced (and misinterpreted, according to the author) the Elite Theory of democracy by Mosca, Pareto, and Michels'
 date: 2025-02-01
 paperurl: https://read.dukeupress.edu/hope/article/58/1/155/403235/Democratic-Elitism-The-Founding-Myth-of-American
-citation: Gianluca Damiani, Democratic Elitism: The Founding Myth of American Political Science by Natasha Piano. History of Political Economy 1 February 2026; 58 (1): 155–159
+citation: Gianluca Damiani, Democratic Elitism: The Founding Myth of American Political Science by Natasha Piano.  <i>History of Political Economy 1 February 2026<i>, 58 (1): 155–159
 ---
