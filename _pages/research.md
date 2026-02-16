@@ -17,6 +17,6 @@ I earned my Master of Arts in History and Civilization at the University of Pisa
 
 For my Ph.D. dissertation, I worked on the history of how game theory entered into the toolbox of Political Scientists in a way (perhaps surprisingly) different from what it did in Economics. The «main character» of this story is the American political scientist William H. Riker, whose work and especially scholarship paved the way for the establishment of the so-called «Positive Political Theory». Two papers have been published from this work. You can find the abstract [here](https://hdl.handle.net/2158/1288364). 
 
-Also, you can [download it here](/files/DissertationDAMIANI.pdf)
+Also, you can [download it here](/files/DissertationNV.pdf)
 
 
