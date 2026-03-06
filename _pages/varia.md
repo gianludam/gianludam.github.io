@@ -15,4 +15,4 @@ Last (but not least), [here](/files/NotesGT.pdf) is a graduate introduction to G
 ## History of Economics
 
 Finally, an example of my early fascination with Intellectual history and the history of Economic Thought: some notes I wrote about some aspects of the late XIXth century Marginal Revolution and the early attempts to employ mathematics in Economics. You can read it [here](
-/files/MarginalRevolution,EconomicEquilibriumandMathematicalEconomics.pdf).
+/files/MarginalRevolution.pdf).
